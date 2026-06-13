@@ -4,7 +4,7 @@
 
 ## 🌟 Live Demo
 Experience the fully deployed version of the application here:
-**[FinSaarthi Live Deployment](https://agenticai-project-tracka-uzf4xslbwafhmbuw374ijk.streamlit.app/)**
+**[FinSaarthi Live Deployment](https://share.google/O9sVg3OCXxOQKIIMs)**
 
 ## ✨ Features
 
