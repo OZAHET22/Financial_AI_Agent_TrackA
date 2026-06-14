@@ -1,4 +1,4 @@
-# Finaxila Research Agent v2.0
+# FinSaarthi Research Agent v2.0
 
 ## Version
 Current Version: 2.0
