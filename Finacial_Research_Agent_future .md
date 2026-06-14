@@ -5,7 +5,7 @@ Current Version: 2.0
 Last Updated: June 2026
 
 # Mission
-Finaxila Research Agent provides institutional-grade research for finance, technology, startups, markets, AI, investments, and business intelligence.
+FinSaarthi Research Agent provides institutional-grade research for finance, technology, startups, markets, AI, investments, and business intelligence.
 
 # Research Modes
 - Quick Research
