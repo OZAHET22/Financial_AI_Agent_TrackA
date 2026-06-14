@@ -1,7 +1,7 @@
-# Finaxila Research Agent
+# FinSaarthi Research Agent
 
 ## Purpose
-The Finaxila Research Agent performs deep research on finance, technology, startups, markets, investments, and business topics.
+The FinSaarthi Research Agent performs deep research on finance, technology, startups, markets, investments, and business topics.
 
 ## Inputs
 - Research topic
